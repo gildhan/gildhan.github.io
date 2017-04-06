@@ -7,8 +7,9 @@
 .T3{
 	padding-top: 20px;
 	padding-bottom: 20px;
-	background-color: red;
+	background-color: gray;
 	text-align: center;
+	color: red;
 }
 
 .img1{
@@ -34,58 +35,17 @@
 .AG{
 	padding-top: 20px;
 	padding-bottom: 20px;
-	background-color: green;
+	background-color: black;
 	text-align: center;
-}
-
-
-/*.img2{*/
-	width : 400px;
-	height: 500px;
-	margin-left: 20px;
-}
-
-/*.img3{*/
-	width : 400px;
-	height: 500px;
-	margin-left: 40px;
-}
-
-.par1{
-	text-align: center;
-	font-family: 'Macondo', cursive;
-	font-size: 1em;
-	/*padding-right: 10px; */
-	color: black;
-	line-height: 20px;
-}
-
-.par2{
-	text-align: right;
-	font-family: 'Spirax', cursive;
-	font-size: 5em;
-	letter-spacing: 10px;
-	padding: 
-}
-
-.par3{
-	text-align: left;
-	font-family: 'Revalia', cursive;
+	color: white;
+	font-family: 'Rajdhani', sans-serif;
 	font-size: 3em;
-	letter-spacing: 5px;
 }
 
 
 h2{
 	font-size: 3em;
-	color: green;
-}
-
-.t2{
-	font-size: 3em;
-	text-align: center;
-	color: pink;
-	line-height: 10px;
+	color: black;
 }
 
 h4{
@@ -105,8 +65,17 @@ h4{
 	text-align: center;
 	margin-left: 30px;
 	margin-right: 30px;
+	font-family: 'Nunito', sans-serif;
 }
 
 .bg{
 	background-color: cyan;
+}
+
+.p1{
+	font-size: 16pt;
+	text-align: center;
+	margin-left: 40px;
+	margin-right: 40px;
+	font-family: 'Mouse Memoirs', sans-serif;
 }
